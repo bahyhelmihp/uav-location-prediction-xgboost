@@ -20,10 +20,10 @@ A repository containing my experiment on implementing XGBoost to create a regres
 - **Output**: Regression model.
 
 ### Qualitative Results
-Soon.
+Access [here](https://docs.google.com/presentation/d/1-lOVgvx8cGY_L6kdVJMzXjZ358zcaZiU-wlkSrUikIY/edit?usp=sharing).
 
 ### Quantitative Results
-Soon.
+Access [here](https://docs.google.com/presentation/d/1-lOVgvx8cGY_L6kdVJMzXjZ358zcaZiU-wlkSrUikIY/edit?usp=sharing).
 
 ### Slides
-Soon.
+Access [here](https://docs.google.com/presentation/d/1-lOVgvx8cGY_L6kdVJMzXjZ358zcaZiU-wlkSrUikIY/edit?usp=sharing).
